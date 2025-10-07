@@ -1,0 +1,56 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "PEACH-FFF2D6-X-BLACK-000",
+  "description": "Peach+Black - Adapts with the system theme",
+
+  "theme": {
+    "colors": {
+      "frame": "#FFF2D6",
+      "tab_background_text": "#33221B",
+      "tab_line": "#33221B",
+      "tab_loading": "#33221B",
+      "toolbar": "#FFF2D6",
+      "toolbar_text": "#33221B",
+      "toolbar_field": "#FFF9EC",
+      "toolbar_field_text": "#33221B",
+      "toolbar_field_highlight": "#FFE2B8",
+      "toolbar_field_highlight_text": "#33221B",
+      "toolbar_field_border_focus": "#FFF2D6",
+      "toolbar_bottom_separator": "#FFF2D6",
+      "popup": "#FFF2D6",
+      "popup_text": "#33221B",
+      "popup_highlight": "#FFE2B8",
+      "popup_highlight_text": "#33221B",
+      "sidebar": "#FFF2D6",
+      "sidebar_text": "#33221B",
+      "ntp_background": "#FFF2D6",
+      "ntp_text": "#33221B"
+    }
+  },
+
+  "dark_theme": {
+    "colors": {
+      "frame": "#000000",
+      "tab_background_text": "#DEDEDE",
+      "tab_line": "#AEAEAE",
+      "tab_loading": "#AEAEAE",
+      "toolbar": "#000000",
+      "toolbar_text": "#FFFFFF",
+      "toolbar_field": "#191718",
+      "toolbar_field_text": "#FFFFFF",
+      "toolbar_field_highlight": "#302E2F",
+      "toolbar_field_highlight_text": "#FFFFFF",
+      "toolbar_field_border_focus": "#000000",
+      "toolbar_bottom_separator": "#000000",
+      "popup": "#000000",
+      "popup_text": "#FFFFFF",
+      "popup_highlight": "#302E2F",
+      "popup_highlight_text": "#FFFFFF",
+      "sidebar": "#000000",
+      "sidebar_text": "#FFFFFF",
+      "ntp_background": "#000000",
+      "ntp_text": "#FFFFFF"
+    }
+  }
+}
